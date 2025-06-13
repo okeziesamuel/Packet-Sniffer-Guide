@@ -1,5 +1,5 @@
 # Packet-Sniffer-Guide
-# PROJECTNAME
+# Packet Sniffer
 
 ## Objective
 [Brief Objective - Remove this afterwards]
